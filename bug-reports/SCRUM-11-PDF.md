@@ -30,20 +30,11 @@
 Вместо содержимого полей First Name и Last Name на кириллице, файл содержит набор символов "@B5< >;C152"
 
 
-
-**Скриншоты или видео:**
-![Скриншот бага](attachments/SCRUM-11-jira.png)
-
-
-
-
-
-
 **Окружение:**
-
-
 
 * ОС и версия: Windows 11 25H2
 * Браузер и версия: Yandex Browser 26.8.0.0
 * Тестовая среда: [Swag Labs](https://www.saucedemo.com/)
 
+**Скриншот баг-репорта в Jira**
+![Скриншот баг-репорта в Jira](attachments/SCRUM-11-jira.png)
