@@ -9,7 +9,7 @@
 
 
 
-1. Зайти на страницу авторизации https://www.saucedemo.com/ 
+1. [Зайти на страницу авторизации](https://www.saucedemo.com/) 
 2. Войти в аккаунт (login:standard\_user, password:secret\_sauce)
 3. Добавить в корзину товары: Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket
 4. Перейти в корзину с помощью иконки корзины в правом верхнем углу
@@ -26,7 +26,8 @@
 **Фактический результат:** В поле Item total указана сумма $105.96000000000001
 
 
-
+**Скриншот или Видео:**
+![Скрииншот бага](attachments/SCRUM-11-jira.png)
 
 
 **Окружение:**
@@ -35,7 +36,7 @@
 
 * ОС и версия: Windows 11 25H2
 * Браузер и версия: Yandex Browser 26.8.0.0
-* Тестовая среда: Swag Labs
+* Тестовая среда: [Swag Labs](https://www.saucedemo.com/)
 
 
 
