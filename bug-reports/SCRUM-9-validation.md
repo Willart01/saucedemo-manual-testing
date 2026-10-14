@@ -49,7 +49,7 @@
 
 * ОС и версия: Windows 11 25H2
 * Браузер и версия: Yandex Browser 26.8.0.0
-* Тестовая среда: Swag Labs
+* Тестовая среда: [Swag Labs](https://www.saucedemo.com/)
 
 
 
